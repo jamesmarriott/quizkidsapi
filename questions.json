@@ -9,15 +9,15 @@
     "QL2": "A _________ can play the drum.",
     "A1": {
       "value": "drummer",
-      "correct": "false"
+      "correct": false
     },
     "A2": {
       "value": "pianist",
-      "correct": "true"
+      "correct": true
     },
     "A3": {
       "value": "singer",
-      "correct": "false"
+      "correct": false
     }
   },
   {
@@ -29,15 +29,15 @@
     "QL2": "A __________ can play the guitar.",
     "A1": {
       "value": "pianist",
-      "correct": "false"
+      "correct": false
     },
     "A2": {
       "value": "guitarist",
-      "correct": "true"
+      "correct": true
     },
     "A3": {
       "value": "drummer",
-      "correct": "false"
+      "correct": false
     }
   },
   {
@@ -49,15 +49,15 @@
     "QL2": "A __________ can play the piano.",
     "A1": {
       "value": "violinist",
-      "correct": "false"
+      "correct": false
     },
     "A2": {
       "value": "drummer",
-      "correct": "false"
+      "correct": false
     },
     "A3": {
       "value": "pianist",
-      "correct": "true"
+      "correct": true
     }
   },
   {
@@ -69,15 +69,15 @@
     "QL2": "A _________ can play the violin.",
     "A1": {
       "value": "pianist",
-      "correct": "false"
+      "correct": false
     },
     "A2": {
       "value": "violinist",
-      "correct": "true"
+      "correct": true
     },
     "A3": {
       "value": "guitarist",
-      "correct": "false"
+      "correct": false
     }
   },
   {
@@ -89,7 +89,7 @@
     "QL2": "A scientist works in a ______________.",
     "A1": {
       "value": "laboratory",
-      "correct": "true"
+      "correct": true
     },
     "A2": {
       "value": "hospital",
@@ -97,7 +97,7 @@
     },
     "A3": {
       "value": "restaurant",
-      "correct": "false"
+      "correct": false
     }
   },
   {
@@ -109,15 +109,15 @@
     "QL2": "A doctor works in a _____________.",
     "A1": {
       "value": "restaurant",
-      "correct": "false"
+      "correct": false
     },
     "A2": {
       "value": "hospital",
-      "correct": "true"
+      "correct": true
     },
     "A3": {
       "value": "fire station",
-      "correct": "false"
+      "correct": false
     }
   },
   {
@@ -129,15 +129,15 @@
     "QL2": "A dentist works in a ______________.",
     "A1": {
       "value": "dental clinic",
-      "correct": "true"
+      "correct": true
     },
     "A2": {
       "value": "fire station",
-      "correct": "false"
+      "correct": false
     },
     "A3": {
       "value": "restaurant ",
-      "correct": "false"
+      "correct": false
     }
   },
   {
@@ -149,15 +149,15 @@
     "QL2": "A firefighter works in a ___________.",
     "A1": {
       "value": "restaurant ",
-      "correct": "false"
+      "correct": false
     },
     "A2": {
       "value": "hospital ",
-      "correct": "false"
+      "correct": false
     },
     "A3": {
       "value": "fire station",
-      "correct": "true"
+      "correct": true
     }
   },
   {
@@ -169,15 +169,15 @@
     "QL2": "A chef works in a ______________.",
     "A1": {
       "value": "library",
-      "correct": "false"
+      "correct": false
     },
     "A2": {
       "value": "school",
-      "correct": "false"
+      "correct": false
     },
     "A3": {
       "value": "restaurant ",
-      "correct": "true"
+      "correct": true
     }
   },
   {
@@ -189,15 +189,15 @@
     "QL2": "A teacher works in a ______________.",
     "A1": {
       "value": "school",
-      "correct": "true"
+      "correct": true
     },
     "A2": {
       "value": "restaurant",
-      "correct": "false"
+      "correct": false
     },
     "A3": {
       "value": "fire station",
-      "correct": "false"
+      "correct": false
     }
   }]
 }
