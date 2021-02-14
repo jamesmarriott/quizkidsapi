@@ -14,19 +14,3 @@
   background-color: var(--color3);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-
-.product-image {
-  width: 250px;
-  height: 250px;
-  width: 100%;
-  object-fit: cover;
-}
-
-.product-image:hover{
-  transform: scale(1.05);
-  transition: transform .2s;
-}
-
-.product-line {
-  justify-content: center;
-}
