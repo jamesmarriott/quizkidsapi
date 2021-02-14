@@ -26,9 +26,9 @@ function renderHTML(json) {
         qHTML += `
         <div class='product-wrapper'>
           <p>Category ${item.Category}<p>
-          <p>Category ${item.CEFR-level}<p>
           <p>Question ${item.QL1}<p>
           <p>Question ${item.QL2}<p>
+          <a>Answer ${item.A1.value}<p>
         </div>
         `
     })
