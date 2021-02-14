@@ -3,7 +3,7 @@
   {
     "ID": 1,
     "Category": "nouns",
-    "CEFR-level": "b1",
+    "CEFRlevel": "b1",
     "Theme": "work",
     "QL1": "Pick the correct word to complete the sentence.",
     "QL2": "A _________ can play the drum.",
@@ -23,7 +23,7 @@
   {
     "ID": 2,
     "Category": "nouns",
-    "CEFR-level": "b1",
+    "CEFRlevel": "b1",
     "Theme": "work",
     "QL1": "Pick the correct word to complete the sentence.",
     "QL2": "A __________ can play the guitar.",
@@ -43,7 +43,7 @@
   {
     "ID": 3,
     "Category": "nouns",
-    "CEFR-level": "b1",
+    "CEFRlevel": "b1",
     "Theme": "work",
     "QL1": "Pick the correct word to complete the sentence.",
     "QL2": "A __________ can play the piano.",
@@ -63,7 +63,7 @@
   {
     "ID": 4,
     "Category": "nouns",
-    "CEFR-level": "a1",
+    "CEFRlevel": "a1",
     "Theme": "work",
     "QL1": "Pick the correct word to complete the sentence.",
     "QL2": "A _________ can play the violin.",
@@ -83,7 +83,7 @@
   {
     "ID": 5,
     "Category": "nouns",
-    "CEFR-level": "a1",
+    "CEFRlevel": "a1",
     "Theme": "work",
     "QL1": "Pick the correct word to complete the sentence.",
     "QL2": "A scientist works in a ______________.",
@@ -103,7 +103,7 @@
   {
     "ID": 6,
     "Category": "nouns",
-    "CEFR-level": "",
+    "CEFRlevel": "",
     "Theme": "work",
     "QL1": "Pick the correct word to complete the sentence.",
     "QL2": "A doctor works in a _____________.",
@@ -123,7 +123,7 @@
   {
     "ID": 7,
     "Category": "nouns",
-    "CEFR-level": "a1",
+    "CEFRlevel": "a1",
     "Theme": "work",
     "QL1": "Pick the correct word to complete the sentence.",
     "QL2": "A dentist works in a ______________.",
@@ -143,7 +143,7 @@
   {
     "ID": 8,
     "Category": "nouns",
-    "CEFR-level": "a1",
+    "CEFRlevel": "a1",
     "Theme": "work",
     "QL1": "Pick the correct word to complete the sentence.",
     "QL2": "A firefighter works in a ___________.",
@@ -163,7 +163,7 @@
   {
     "ID": 9,
     "Category": "nouns",
-    "CEFR-level": "a1",
+    "CEFRlevel": "a1",
     "Theme": "work",
     "QL1": "Pick the correct word to complete the sentence.",
     "QL2": "A chef works in a ______________.",
@@ -183,7 +183,7 @@
   {
     "ID": 10,
     "Category": "nouns",
-    "CEFR-level": "a1",
+    "CEFRlevel": "a1",
     "Theme": "work",
     "QL1": "Pick the correct word to complete the sentence.",
     "QL2": "A teacher works in a ______________.",
