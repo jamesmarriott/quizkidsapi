@@ -22,13 +22,17 @@ function renderHTML(json) {
     let qHTML = ""
     json.forEach(item => 
       {
-        console.log(item)
         qHTML += `
         <div class='product-wrapper'>
-          <p>Category ${item.Category}<p>
-          <p>Question ${item.QL1}<p>
-          <p>Question ${item.QL2}<p>
-          <a>Answer ${item.A1.value}<p>
+          <p>Question Number: ${item.ID}</p>
+          <p>Category: ${item.Category}.</p>
+          <p>Level: ${item.CEFRlevel}</p>
+          <p>Theme: ${item.Theme}</p>
+          <p>Question 1: ${item.QL1}.</p>
+          <p>Question 2: ${item.QL2}</p>
+          <p>Answer 1: ${item.A1.value}. Correct: ${item.A1.correct ? "Yes" : "No"}</p>
+          <p>Answer 2: ${item.A2.value}. Correct: ${item.A2.correct ? "Yes" : "No"}</p>
+          <p>Answer 3: ${item.A3.value}. Correct: ${item.A3.correct ? "Yes" : "No"}</p>
         </div>
         `
     })

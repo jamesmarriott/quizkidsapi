@@ -2,17 +2,15 @@
 
 .questions-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
   grid-template-rows: auto;
   grid-gap: 1rem;
-  background-color: var(--color2);
   padding: 1rem;
 }
 
 .product-wrapper {
   display: grid;
   padding: .3rem;
-  grid-auto-columns: 1fr;
   background-color: var(--color3);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
