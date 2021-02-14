@@ -1,0 +1,23 @@
+{
+  "name": "quizkidsapi",
+  "version": "1.0.0",
+  "description": "an api for the quiz kids - faceoff app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesmarriott/quizkidsapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesmarriott/quizkidsapi/issues"
+  },
+  "homepage": "https://github.com/jamesmarriott/quizkidsapi#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
