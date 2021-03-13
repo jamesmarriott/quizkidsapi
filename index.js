@@ -27,7 +27,7 @@ function renderHTML(json) {
           <p>Question Number: ${item.ID}</p>
           <p>Category: ${item.Category}.</p>
           <p>Level: ${item.CEFRlevel}</p>
-          <p>Theme: ${item.Theme}</p>
+            <p>Theme: ${item.Theme}</p>
           <p>Question 1: ${item.QL1}.</p>
           <p>Question 2: ${item.QL2}</p>
           <p>Answer 1: ${item.A1.value}. Correct: ${item.A1.correct ? "Yes" : "No"}</p>
